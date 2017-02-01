@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location Project</string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+    <string name="intent_action_location_update">com.salmanwahed.locationproject.LOCATION_UPDATE</string>
+    <string name="bundle_key_location">LOCATION</string>
+    <string name="app_preference">PREFERENCE_LOCATION_PROJECT</string>
+</resources>
